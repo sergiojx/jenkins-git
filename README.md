@@ -6,3 +6,5 @@ And it should be triggered by any change
 ## Trigger test
 
 ## Trigger test2
+
+## Trigger test 3
