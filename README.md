@@ -8,3 +8,6 @@ And it should be triggered by any change
 ## Trigger test2
 
 ## Trigger test 3
+
+## Trigger test 4
+
