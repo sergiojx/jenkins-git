@@ -8,6 +8,12 @@ And it should be triggered by any change
 ## Test 2
 
 ## Tetra
+
+###  founded in 1951 in Lund, Sweden.
+### People
+CEO                               ADOLFO ORIVE
+OT Systems Manager på Tetra Pak   Håkan Larsson
+                                  Per-Olof Wulff
 ### Inline systems
 Inline Systems, e.g., print inspection, surface inspection and gauging/applying grammage measurement
 
@@ -28,3 +34,17 @@ We’re committed to making food safe and available, everywhere and we promise t
 
 ### Integrated sustainability
 We've chosen to focus on five key areas - food systems, social sustainability, climate, nature, and circularity - as this is what aligns with our overall purpose and where we believe we can make a positive impact.
+
+
+### Competitor
+https://www.sig.biz/en
+
+
+
+https://www.krones.com/en/index.php    bottling machines in a brewery
+
+### Tetra Pack History
+Dr ​Ruben Rausing (1895-1983), founder of Tetra Pak
+
+###  Strategy 2030
+In 2030, we will have the opportunity to make food safe and available everywhere, for even more people.
