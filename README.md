@@ -55,9 +55,10 @@ I think  I would be a good fit for this position because I had the opportunity t
 It is important to mention that I was very lucky to share all these years with talented people, easy to cooperate with and open to sharing their knowledge. This environment boosts your curiosity and love for what you do so you can persevere when problems seem impossible to solve.
 
 For the last 5 years, I have been involved in software-intensive activities like data analysis, image processing and safety-critical software. I have learned that giving the right answer is a good beginning, but it is not enough. 
-Example 1 brain implant 
 
-Example 2 OS for a car It is unacceptable to fail with a blue screen. is safe and what is not safe 
+Example 1 brain implant  
+
+Example 2 OS for a car It is unacceptable to fail with a blue screen. is safe and what is not safe  
 
 The entire process matters. Today sustainability is a must. energy matters, reliability matters, minimizing waste matters, optimizing resource consumption matters.
 I believe Tetrapack has I key role in the global food chain, and I feel really inspired by the company goal to make food safe and available, everywhere and we promise to protect what’s good - protecting food, people and the planet”.  I am really enthusiastic about the idea of being part of this purpose since my contributions as a development engineer
