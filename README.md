@@ -32,6 +32,13 @@ Our approach to sustainability is embodied by our purpose “we commit to making
 
 We’re committed to making food safe and available, everywhere and we promise to protect what’s good – protecting our food, people and planet.?
 
+### Our Core Values reflect our philosophy and way of being, and they are:
+
+Customer focus and long term view   
+Quality and Innovation   
+Freedom and Responsibilities   
+Partnership and Fun   
+
 ### Integrated sustainability
 We've chosen to focus on five key areas - food systems, social sustainability, climate, nature, and circularity - as this is what aligns with our overall purpose and where we believe we can make a positive impact.
 
