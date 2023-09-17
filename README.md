@@ -47,7 +47,6 @@ We've chosen to focus on five key areas - food systems, social sustainability, c
 https://www.sig.biz/en
 
 
-
 https://www.krones.com/en/index.php    bottling machines in a brewery
 
 ### Tetra Pack History
@@ -79,3 +78,6 @@ I have learned that giving the right answer is a good beginning, but it is not e
 
 The entire process matters. Today sustainability is a must. energy matters, reliability matters, minimizing waste matters, optimizing resource consumption matters.
 I believe Tetrapack has I key role in the global food chain, and I feel really inspired by the company goal to make food safe and available, everywhere and we promise to protect what’s good - protecting food, people and the planet”.  I am really enthusiastic about the idea of being part of this purpose since my contributions as a development engineer
+
+
+#### Strobe light
